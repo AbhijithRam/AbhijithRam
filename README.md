@@ -8,7 +8,7 @@
 
 - 🔭 Pursuing btech degree in Computer science from Cochin University of Science and Technology
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **REACT and ANGULAR**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
